@@ -2117,13 +2117,14 @@ input, select, textarea {
 		border-radius: 50%; /* make the border radius 50% to create a circular shape */
 		overflow: hidden; /* hide any overflow from the image */
 		margin-top: 50px;
+		box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.5);
 		}
 
 	.profile-pic img {
 		width: 130%;
-		height: 151%;
+		height: 124%;
 		display: block;
-		margin-left: -45px;
+		margin-left: -35px;
 		object-fit: cover; /* resize the image to cover the container */
 	}
 
