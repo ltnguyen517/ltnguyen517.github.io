@@ -200,7 +200,7 @@ const testimonials = [
     {
       name: "Amplify",
       description:
-        "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+        "Welcome to Amplify, a Spotify clone! A community where you can share your view of the world through your own ears! Feel free to create and share playlists and listen to music on the fly, anywhere you go!",
       tags: [
         {
           name: "react",
@@ -216,12 +216,12 @@ const testimonials = [
         },
       ],
       image: carrent,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/ltnguyen517/Amplify",
     },
     {
       name: "LCSX",
       description:
-        "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+        "Welcome to LSCX, a Yelp clone! LSCX is a web application that allows users to search for local businesses, read reviews and ratings, and post their own reviews of businesses.",
       tags: [
         {
           name: "react",
@@ -237,12 +237,12 @@ const testimonials = [
         },
       ],
       image: jobit,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/lingxiGitHub/Yelp-Restaurants",
     },
     {
       name: "HomeyBnB",
       description:
-        "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+        "Experience the world from the comfort of your couch with my Airbnb clone! From browsing listings to booking your dream stay, this full-stack web app takes you on a virtual journey like no other. With sleek design and intuitive functionality, you'll feel like a seasoned traveler in no time.",
       tags: [
         {
           name: "nextjs",
@@ -258,7 +258,7 @@ const testimonials = [
         },
       ],
       image: tripguide,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/ltnguyen517/HomeyBnB",
     },
   ];
 
