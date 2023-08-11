@@ -215,7 +215,7 @@ const testimonials = [
           color: "pink-text-gradient",
         },
       ],
-      image: carrent,
+      image: 'https://media.giphy.com/media/AP0KvGaO7A2lp7AhKd/giphy.gif',
       source_code_link: "https://github.com/ltnguyen517/Amplify",
     },
     {
@@ -236,7 +236,7 @@ const testimonials = [
           color: "pink-text-gradient",
         },
       ],
-      image: jobit,
+      image: 'https://media.giphy.com/media/u7vIr34peL4rz1TakE/giphy.gif',
       source_code_link: "https://github.com/lingxiGitHub/Yelp-Restaurants",
     },
     {
@@ -257,7 +257,7 @@ const testimonials = [
           color: "pink-text-gradient",
         },
       ],
-      image: tripguide,
+      image: 'https://media.giphy.com/media/7q8n6NHIwfCTsGrqA0/giphy.gif',
       source_code_link: "https://github.com/ltnguyen517/HomeyBnB",
     },
   ];
