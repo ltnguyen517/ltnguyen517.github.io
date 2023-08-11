@@ -4,6 +4,7 @@ import { motion } from "framer-motion";
 
 import { styles } from "../styles";
 import { github } from "../assets";
+import { websitelogo } from "../assets";
 import { SectionWrapper } from "../hoc";
 import { projects } from "../constants";
 import { fadeIn, textVariant } from "../utils/motion";
@@ -11,6 +12,7 @@ import { fadeIn, textVariant } from "../utils/motion";
 const ProjectCard = ({
   index,
   name,
+  href,
   description,
   tags,
   image,
@@ -42,6 +44,16 @@ const ProjectCard = ({
                 src={github}
                 alt='source code'
                 className='w-1/2 h-1/2 object-contain'
+              />
+            </div>
+            <div
+              onClick={() => window.open(href, "_blank")}
+              className='black-gradient w-10 h-10 rounded-full flex justify-center items-center cursor-pointer'
+            >
+              <img
+                src={websitelogo}
+                alt='Amplify site'
+                className='w-1/2 h-1/2 object-contain bg-white'
               />
             </div>
           </div>

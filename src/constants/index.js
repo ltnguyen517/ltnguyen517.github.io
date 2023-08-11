@@ -172,46 +172,47 @@ const experiences = [
 const testimonials = [
     {
       testimonial:
-        "I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.",
+        "Le demonstrates an extraordinary commitment to his work. His meticulous attention to detail and proactive problem-solving approach showcases his intelligence and dedication. As a junior full stack software engineer, Le consistently goes above and beyond, showing an industrious spirit that will undoubtedly lead him to great success.",
       name: "Jennifer Wu",
-      designation: "CFO",
-      company: "Acme Co",
-      image: "https://randomuser.me/api/portraits/women/4.jpg",
+      designation: "Cybersecurity Investigator",
+      company: "Citigroup",
+      image: "https://media.licdn.com/dms/image/D4E03AQG1HaXQsTPsGQ/profile-displayphoto-shrink_400_400/0/1689345826462?e=1697068800&v=beta&t=EMf6ez7wGssrJPyFC8pnq3jGfAfbqhZbq3PzjgaJSmo",
     },
     {
       testimonial:
-        "I've never met a web developer who truly cares about their clients' success like Rick does.",
+        "Working with Le has been a remarkable experience. His ability to grasp complex concepts quickly and apply them in practical scenarios is  impressive. His diligence and tireless work ethic makes him a valuable asset to any team. I have no doubt that Le will excel in his journey as a full stack software engineer.",
       name: "Jae Yun Song",
-      designation: "COO",
-      company: "DEF Corp",
-      image: "https://randomuser.me/api/portraits/men/5.jpg",
+      designation: "Software Engineer",
+      company: "RingCentral",
+      image: "https://media.licdn.com/dms/image/C4D03AQHurfJ9nRimJg/profile-displayphoto-shrink_800_800/0/1608184738450?e=1697068800&v=beta&t=rvccfjrZcR6czbyctVSHYL6KIcpMWjI8JtMM7ODf2qY",
     },
     {
       testimonial:
         "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
-      name: "Lisa Wang",
-      designation: "CTO",
-      company: "456 Enterprises",
-      image: "https://randomuser.me/api/portraits/women/6.jpg",
+      name: "Martin Yip",
+      designation: "Full Stack Software Engineer",
+      company: "App Academy",
+      image: "https://martinyip220.github.io/assets/img/profile-img.jpg",
     },
   ];
 
   const projects = [
     {
       name: "Amplify",
+      href: "https://amplify-twmy.onrender.com",
       description:
         "Welcome to Amplify, a Spotify clone! A community where you can share your view of the world through your own ears! Feel free to create and share playlists and listen to music on the fly, anywhere you go!",
       tags: [
         {
-          name: "react",
+          name: "python",
           color: "blue-text-gradient",
         },
         {
-          name: "mongodb",
+          name: "react",
           color: "green-text-gradient",
         },
         {
-          name: "tailwind",
+          name: "amazon s3",
           color: "pink-text-gradient",
         },
       ],
@@ -220,6 +221,7 @@ const testimonials = [
     },
     {
       name: "LCSX",
+      href: "https://restaurant-business.onrender.com/",
       description:
         "Welcome to LSCX, a Yelp clone! LSCX is a web application that allows users to search for local businesses, read reviews and ratings, and post their own reviews of businesses.",
       tags: [
@@ -228,11 +230,11 @@ const testimonials = [
           color: "blue-text-gradient",
         },
         {
-          name: "restapi",
+          name: "python",
           color: "green-text-gradient",
         },
         {
-          name: "scss",
+          name: "css",
           color: "pink-text-gradient",
         },
       ],
@@ -241,15 +243,16 @@ const testimonials = [
     },
     {
       name: "HomeyBnB",
+      href: "https://homeybnb.onrender.com",
       description:
         "Experience the world from the comfort of your couch with my Airbnb clone! From browsing listings to booking your dream stay, this full-stack web app takes you on a virtual journey like no other. With sleek design and intuitive functionality, you'll feel like a seasoned traveler in no time.",
       tags: [
         {
-          name: "nextjs",
+          name: "javascript",
           color: "blue-text-gradient",
         },
         {
-          name: "supabase",
+          name: "express",
           color: "green-text-gradient",
         },
         {
