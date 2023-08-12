@@ -1,27 +1,24 @@
 import {
-    mobile,
+    qa,
     backend,
-    creator,
+    frontend,
     web,
     javascript,
     typescript,
+    python,
+    sql,
+    playwright,
     html,
     css,
     reactjs,
     redux,
     tailwind,
     nodejs,
-    mongodb,
-    git,
-    figma,
-    docker,
+    awss3,
     meta,
     starbucks,
     tesla,
     shopify,
-    carrent,
-    jobit,
-    tripguide,
     threejs,
 } from "../assets";
 
@@ -42,24 +39,40 @@ export const navLinks = [
 
 const services = [
     {
-      title: "Web Developer",
+      title: "Full Stack Software Engineer",
       icon: web,
     },
     {
-      title: "React Native Developer",
-      icon: mobile,
+      title: "Frontend Developer",
+      icon: frontend,
     },
     {
       title: "Backend Developer",
       icon: backend,
     },
     {
-      title: "Content Creator",
-      icon: creator,
+      title: "QA Engineer",
+      icon: qa,
     },
 ];
 
 const technologies = [
+    {
+      name: "JavaScript",
+      icon: javascript,
+    },
+    {
+      name: "React JS",
+      icon: reactjs,
+    },
+    {
+      name: "Python",
+      icon: python,
+    },
+    {
+      name: "TypeScript",
+      icon: typescript,
+    },
     {
       name: "HTML 5",
       icon: html,
@@ -67,18 +80,6 @@ const technologies = [
     {
       name: "CSS 3",
       icon: css,
-    },
-    {
-      name: "JavaScript",
-      icon: javascript,
-    },
-    {
-      name: "TypeScript",
-      icon: typescript,
-    },
-    {
-      name: "React JS",
-      icon: reactjs,
     },
     {
       name: "Redux Toolkit",
@@ -93,24 +94,20 @@ const technologies = [
       icon: nodejs,
     },
     {
-      name: "MongoDB",
-      icon: mongodb,
+      name: "SQL",
+      icon: sql,
+    },
+    {
+      name: "Playwright",
+      icon: playwright,
+    },
+    {
+      name: "AWSS3",
+      icon: awss3,
     },
     {
       name: "Three JS",
       icon: threejs,
-    },
-    {
-      name: "git",
-      icon: git,
-    },
-    {
-      name: "figma",
-      icon: figma,
-    },
-    {
-      name: "docker",
-      icon: docker,
     },
 ];
 
@@ -188,7 +185,7 @@ const testimonials = [
     },
     {
       testimonial:
-        "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
+        "I've had the pleasure of collaborating with Le on various coding projects, and his contributions have been nothing short of exceptional. Le's analytical thinking and eagerness to learn new technologies reflect his enthusiasm for software engineering. Rest assured, tasks done by Le are completed with precision and dedication.",
       name: "Martin Yip",
       designation: "Full Stack Software Engineer",
       company: "App Academy",

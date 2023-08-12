@@ -11,7 +11,7 @@ const ServiceCard = ({ index, title, icon }) => (
   <Tilt className='xs:w-[250px] w-full'>
     <motion.div
       variants={fadeIn("right", "spring", index * 0.5, 0.75)}
-      className='w-full green-pink-gradient p-[1px] rounded-[20px] shadow-card'
+      className='w-full tan-gradient p-[1px] rounded-[20px] shadow-card'
     >
       <div
         options={{
@@ -27,7 +27,7 @@ const ServiceCard = ({ index, title, icon }) => (
           className='w-16 h-16 object-contain'
         />
 
-        <h3 className='text-white text-[20px] font-bold text-center'>
+        <h3 className='text-[#f2dea4] text-[20px] font-bold text-center'>
           {title}
         </h3>
       </div>
@@ -47,11 +47,13 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-        I'm a skilled software developer with experience in TypeScript and
-        JavaScript, and expertise in frameworks like React, Node.js, and
-        Three.js. I'm a quick learner and collaborate closely with clients to
-        create efficient, scalable, and user-friendly solutions that solve
-        real-world problems. Let's work together to bring your ideas to life!
+        Formerly from the healthcare field for nearly a decade, I am passionate about bringing a unique combination of analytical problem-solving skills, attention to detail, and empathy to my work now as a software engineer. I am committed to leveraging my expertise in both fields to create and drive innovative solutions that improve the lives of others. With experience working in high-pressure environments and a dedication to continuous learning, I excel at adapting to new challenges and collaborating with diverse teams. Whether I am working independently or as part of a team, I am always looking for ways to improve processes and deliver exceptional results.
+        <br />
+        <br />
+        My technical skills include proficiency in Javascript, Python, SQL, and frameworks/technologies such as React, Redux, Postgres, Express, Flask, SQLAlchemy, Node and AWS, as well as experience with Agile development methodologies.
+        <br />
+        <br />
+        I am highly motivated, adaptable, and a quick learner, always seeking opportunities to grow. If you are looking for a dedicated software engineer with a passion for innovation and making a difference, let's connect!
       </motion.p>
 
       <div className='mt-20 flex flex-wrap gap-10'>
