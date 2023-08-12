@@ -41,7 +41,10 @@ const Navbar = () => {
             window.scrollTo(0, 0);
           }}
         >
-          <img src={logo} alt='logo' className='w-9 h-9 object-contain' />
+          <img src={logo} alt='logo' className='w-9 h-9 object-contain' style={{ width: '30x', height: '50px' }} />
+          <p className='text-[#f2dea4] text-[18px] font-bold cursor-pointer flex '>
+            Le Nguyen, MD, MBS
+          </p>
         </Link>
 
         <ul className='list-none hidden sm:flex flex-row gap-10'>
@@ -49,8 +52,8 @@ const Navbar = () => {
             <li
               key={nav.id}
               className={`${
-                active === nav.title ? "text-white" : "text-secondary"
-              } hover:text-white text-[18px] font-medium cursor-pointer`}
+                active === nav.title ? "text-[#f2dea4]" : "text-[#a99b72]"
+              } hover:text-[#f2dea4] text-[18px] font-medium cursor-pointer`}
               onClick={() => setActive(nav.title)}
             >
               <a href={`#${nav.id}`}>{nav.title}</a>
@@ -76,7 +79,7 @@ const Navbar = () => {
                 <li
                   key={nav.id}
                   className={`font-poppins font-medium cursor-pointer text-[16px] ${
-                    active === nav.title ? "text-white" : "text-secondary"
+                    active === nav.title ? "text-[#f2dea4]" : "text-[#a99b72]"
                   }`}
                   onClick={() => {
                     setToggle(!toggle);
