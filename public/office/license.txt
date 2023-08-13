@@ -1,11 +1,11 @@
 Model Information:
-* title:	Basement Home Office #BADeskChallenge
-* source:	https://sketchfab.com/3d-models/basement-home-office-badeskchallenge-324ceb119c754bed973ab7a603750742
-* author:	Fatih174 (https://sketchfab.com/Fatih174)
+* title:	Stephan's Sketchbook Strange Water Home
+* source:	https://sketchfab.com/3d-models/stephans-sketchbook-strange-water-home-2a268c93f6274814befcc5de791884f5
+* author:	IvenPohle (https://sketchfab.com/IvenPohle)
 
 Model License:
-* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
-* requirements:	Author must be credited. Commercial use is allowed.
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
 
 If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
-This work is based on "Basement Home Office #BADeskChallenge" (https://sketchfab.com/3d-models/basement-home-office-badeskchallenge-324ceb119c754bed973ab7a603750742) by Fatih174 (https://sketchfab.com/Fatih174) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+This work is based on "Stephan's Sketchbook Strange Water Home" (https://sketchfab.com/3d-models/stephans-sketchbook-strange-water-home-2a268c93f6274814befcc5de791884f5) by IvenPohle (https://sketchfab.com/IvenPohle) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)

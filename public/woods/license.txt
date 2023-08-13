@@ -1,0 +1,11 @@
+Model Information:
+* title:	Low Poly House
+* source:	https://sketchfab.com/3d-models/low-poly-house-0b04fe236e17480a80697d07775eb6fc
+* author:	Bubble.tea (https://sketchfab.com/Bubble.tea)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Low Poly House" (https://sketchfab.com/3d-models/low-poly-house-0b04fe236e17480a80697d07775eb6fc) by Bubble.tea (https://sketchfab.com/Bubble.tea) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

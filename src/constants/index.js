@@ -113,15 +113,28 @@ const technologies = [
 
 const experiences = [
     {
-      title: "Medical Researcher",
-      company_name: "Geisinger Commonwealth SOM",
-      icon: geisinger,
+      title: "Events Director & Web Developer Volunteer",
+      company_name: "Chieu Kien Buddhist Center",
+      icon: temple,
       iconBg: "#011e33",
-      date: "August 2016 - May 2017",
+      date: "June 2011 - Present",
       points: [
-        "Collaborated with a team of researchers to design a study aimed at investigating the association between trusting formal or informal sources of health information and smoking cessation, utilizing best practices for data analysis.",
-        "Presented research findings at a research symposium, employing communication skills and data visualization to engage with a diverse audience and answer questions.",
-        "Demonstrated strong attention to detail in data management, ensuring that all study information was properly recorded and accounted for.",
+        "Designed and produced email communications using Mailchimp, resulting in a 30% increase in email open rates and engagement with the temple community.",
+        "Successfully managed and coordinated various events, including fundraising drives and meditation retreats, that served to raise funds to benefit the welfare of the community.",
+        "Facilitated effective communication and collaboration among temple staff and volunteers by leading weekly meetings and maintaining detailed meeting minutes, resulting in improved team dynamics.",
+        "Initiating the design and development of a modern, user-friendly website for the local Buddhist temple, aimed at improving online engagement and accessibility for the community members.",
+      ],
+    },
+    {
+      title: "Medical Graduate",
+      company_name: "NewYork-Presbyterian Queens",
+      icon: nyp,
+      iconBg: "#011e33",
+      date: "March 2021 - April 2022",
+      points: [
+        "Accurately diagnosed and treated complex medical cases, achieving a 95% success rate in identifying appropriate treatment plans under high-pressure conditions.",
+        "Devised and executed patient care strategies, leading to a 15% reduction in recovery time and ensuring optimal outcomes for diverse medical conditions.",
+        "Applied exceptional communication skills to interact with patients, resulting in a 96% satisfaction rate and positive feedback regarding the quality of care provided.",
       ],
     },
     {
@@ -138,28 +151,15 @@ const experiences = [
       ],
     },
     {
-      title: "Medical Graduate",
-      company_name: "NewYork-Presbyterian Queens",
-      icon: nyp,
+      title: "Medical Researcher",
+      company_name: "Geisinger Commonwealth SOM",
+      icon: geisinger,
       iconBg: "#011e33",
-      date: "March 2021 - April 2022",
+      date: "August 2016 - May 2017",
       points: [
-        "Accurately diagnosed and treated complex medical cases, achieving a 95% success rate in identifying appropriate treatment plans under high-pressure conditions.",
-        "Devised and executed patient care strategies, leading to a 15% reduction in recovery time and ensuring optimal outcomes for diverse medical conditions.",
-        "Applied exceptional communication skills to interact with patients, resulting in a 96% satisfaction rate and positive feedback regarding the quality of care provided.",
-      ],
-    },
-    {
-      title: "Events Director & Web Developer Volunteer",
-      company_name: "Chieu Kien Buddhist Center",
-      icon: temple,
-      iconBg: "#011e33",
-      date: "June 2011 - Present",
-      points: [
-        "Designed and produced email communications using Mailchimp, resulting in a 30% increase in email open rates and engagement with the temple community.",
-        "Successfully managed and coordinated various events, including fundraising drives and meditation retreats, that served to raise funds to benefit the welfare of the community.",
-        "Facilitated effective communication and collaboration among temple staff and volunteers by leading weekly meetings and maintaining detailed meeting minutes, resulting in improved team dynamics.",
-        "Initiating the design and development of a modern, user-friendly website for the local Buddhist temple, aimed at improving online engagement and accessibility for the community members.",
+        "Collaborated with a team of researchers to design a study aimed at investigating the association between trusting formal or informal sources of health information and smoking cessation, utilizing best practices for data analysis.",
+        "Presented research findings at a research symposium, employing communication skills and data visualization to engage with a diverse audience and answer questions.",
+        "Demonstrated strong attention to detail in data management, ensuring that all study information was properly recorded and accounted for.",
       ],
     },
 ];
