@@ -22,10 +22,10 @@ import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
 
-import meta from "./company/meta.png";
-import shopify from "./company/shopify.png";
-import starbucks from "./company/starbucks.png";
-import tesla from "./company/tesla.png";
+import temple from "./company/temple.jpeg";
+import geisinger from "./company/Geisinger.png";
+import citymd from "./company/citymd.svg";
+import nyp from "./company/nyp.png";
 
 export {
   logo,
@@ -50,8 +50,8 @@ export {
   tailwind,
   typescript,
   threejs,
-  meta,
-  shopify,
-  starbucks,
-  tesla
+  temple,
+  geisinger,
+  citymd,
+  nyp
 };
