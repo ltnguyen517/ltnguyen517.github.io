@@ -1,6 +1,7 @@
 import { motion } from "framer-motion";
 import { styles } from "../styles";
 import { ComputersCanvas } from "./canvas";
+import TypewriterComponent from "typewriter-effect";
 
 const Hero = () => {
   return (
@@ -13,10 +14,19 @@ const Hero = () => {
           <div className='w-1 sm:h-80 h-40 gold-gradient' />
         </div>
 
-        <div>
-          <h1 className={`${styles.heroHeadText} text-white`}>
+        <div className={`${styles.heroHeadText} text-white`} style={{WebkitTextStroke: '0.45px #f2dea4', textStroke: '0.45px #f2dea4',}}>
+          <TypewriterComponent
+              options={{
+                strings: [
+                  "Greetings, I'm Le!",
+                ],
+                autoStart: true,
+                loop: true,
+              }}
+            />
+          {/* <h1 className={`${styles.heroHeadText} text-white`}>
             Greetings, I'm <span className='text-white'>Le!</span>
-          </h1>
+          </h1> */}
           <p className={`${styles.heroSubText} mt-2 text-white-100`}>
             Full stack software engineer with 1+ years of experience developing <br className='sm:block hidden' />
             user-centered applications, user interfaces, and 3D visuals.
