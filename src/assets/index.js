@@ -6,6 +6,7 @@ import web from "./web.png";
 import github from "./github.png";
 import websitelogo from "./websitelogo.svg";
 import menu from "./menu.svg";
+import cogniversegif from "./cogniversegif.gif";
 import close from "./close.svg";
 
 import css from "./tech/css.png";
@@ -36,6 +37,7 @@ export {
   github,
   websitelogo,
   menu,
+  cogniversegif,
   close,
   css,
   awss3,

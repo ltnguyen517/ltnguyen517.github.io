@@ -10,6 +10,7 @@ import {
     playwright,
     html,
     css,
+    cogniversegif,
     reactjs,
     redux,
     tailwind,
@@ -213,6 +214,28 @@ const testimonials = [
       ],
       image: 'https://media.giphy.com/media/AP0KvGaO7A2lp7AhKd/giphy.gif',
       source_code_link: "https://github.com/ltnguyen517/Amplify",
+    },
+    {
+      name: "CogniVerse",
+      href: "https://cogniverse-theta.vercel.app/",
+      description:
+        "Discover the magic of CogniVerse! Craft code, images, music, video, and conversations effortlessly. Embark on a journey of innovation and unleash your imagination with cutting-edge AI technology. Elevate your knowledge and spark new horizons. Join me in shaping the future of creativity!",
+      tags: [
+        {
+          name: "next.js 13",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "tailwind",
+          color: "green-text-gradient",
+        },
+        {
+          name: "stripe",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: cogniversegif,
+      source_code_link: "https://github.com/ltnguyen517/CogniVerse",
     },
     {
       name: "LCSX",
