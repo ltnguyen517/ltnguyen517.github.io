@@ -33,10 +33,10 @@ const Contact = () => {
     emailjs
       .send(
         'service_wp4ncgj',
-        'template_gnbk3cf',
+        'template_bqcjk0e',
         {
           from_name: form.name,
-          to_name: "Le Nguyen",
+          to_name: "Brian Nguyen",
           from_email: form.email,
           to_email: "ltnguyenswe@gmail.com",
           message: form.message,
@@ -108,7 +108,7 @@ const Contact = () => {
               name='message'
               value={form.message}
               onChange={handleChange}
-              placeholder='What would you like to say to Le?'
+              placeholder='What would you like to say to Brian?'
               className='bg-[#011e33] py-4 px-6 placeholder:text-secondary text-white rounded-lg outline-none border-none font-medium'
             />
           </label>

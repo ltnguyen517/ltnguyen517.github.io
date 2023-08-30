@@ -43,7 +43,7 @@ const Navbar = () => {
         >
           <img src={logo} alt='logo' className='w-9 h-9 object-contain' style={{ width: '30x', height: '50px' }} />
           <p className='text-[#f2dea4] text-[18px] font-bold cursor-pointer flex '>
-            Le Nguyen, MD, MBS
+            Brian Nguyen, MD, MBS
           </p>
         </Link>
 

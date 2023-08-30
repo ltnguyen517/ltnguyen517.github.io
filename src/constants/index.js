@@ -33,6 +33,10 @@ export const navLinks = [
       title: "Work",
     },
     {
+      id: "projects",
+      title: "Projects",
+    },
+    {
       id: "contact",
       title: "Contact",
     },
@@ -168,7 +172,7 @@ const experiences = [
 const testimonials = [
     {
       testimonial:
-        "Le demonstrates an extraordinary commitment to his work. His meticulous attention to detail and proactive problem-solving approach showcases his intelligence and dedication. As a junior full stack software engineer, Le consistently goes above and beyond, showing an industrious spirit that will undoubtedly lead him to great success.",
+        "Brian demonstrates an extraordinary commitment to his work. His meticulous attention to detail and proactive problem-solving approach showcases his intelligence and dedication. As a junior full stack software engineer, Brian consistently goes above and beyond, showing an industrious spirit that will undoubtedly lead him to great success.",
       name: "Jennifer Wu",
       designation: "Cybersecurity Investigator",
       company: "Citigroup",
@@ -176,7 +180,7 @@ const testimonials = [
     },
     {
       testimonial:
-        "Working with Le has been a remarkable experience. His ability to grasp complex concepts quickly and apply them in practical scenarios is  impressive. His diligence and tireless work ethic makes him a valuable asset to any team. I have no doubt that Le will excel in his journey as a full stack software engineer.",
+        "Working with Brian has been a remarkable experience. His ability to grasp complex concepts quickly and apply them in practical scenarios is  impressive. His diligence and tireless work ethic makes him a valuable asset to any team. I have no doubt that Brian will excel in his journey as a full stack software engineer.",
       name: "Jae Yun Song",
       designation: "Software Engineer",
       company: "RingCentral",
@@ -184,7 +188,7 @@ const testimonials = [
     },
     {
       testimonial:
-        "I've had the pleasure of collaborating with Le on various coding projects, and his contributions have been nothing short of exceptional. Le's analytical thinking and eagerness to learn new technologies reflect his enthusiasm for software engineering. Rest assured, tasks done by Le are completed with precision and dedication.",
+        "I've had the pleasure of collaborating with Brian on various coding projects, and his contributions have been nothing short of exceptional. Brian's analytical thinking and eagerness to learn new technologies reflect his enthusiasm for software engineering. Rest assured, tasks done by Brian are completed with precision and dedication.",
       name: "Martin Yip",
       designation: "Full Stack Software Engineer",
       company: "App Academy",

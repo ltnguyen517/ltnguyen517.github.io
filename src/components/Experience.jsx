@@ -78,6 +78,18 @@ const Experience = () => {
           ))}
         </VerticalTimeline>
       </div>
+
+      <div className='text-center mt-20'>
+        <a
+          href='/Brian Nguyen_Resume (2023-08-30).pdf'
+          target='_blank'
+          rel='noopener noreferrer'
+          className='bg-[#f2dea4] text-[#011e33] text-[16px] font-semibold px-7 py-5 rounded hover:bg-[#011e33] hover:text-[#fff] inline-block'
+          style={{ minWidth: '150px' }}
+        >
+          Download My Resume
+        </a>
+      </div>
     </>
   );
 };

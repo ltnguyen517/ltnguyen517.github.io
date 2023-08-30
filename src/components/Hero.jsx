@@ -18,7 +18,7 @@ const Hero = () => {
           <TypewriterComponent
               options={{
                 strings: [
-                  "Greetings, I'm Le!",
+                  "Greetings, I'm Brian!",
                 ],
                 autoStart: true,
                 loop: true,

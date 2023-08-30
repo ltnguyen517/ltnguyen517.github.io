@@ -52,7 +52,7 @@ const ProjectCard = ({
             >
               <img
                 src={websitelogo}
-                alt='Amplify site'
+                alt='live site'
                 className='w-1/2 h-1/2 object-contain bg-white'
               />
             </div>
@@ -109,4 +109,4 @@ const Works = () => {
   );
 };
 
-export default SectionWrapper(Works, "");
+export default SectionWrapper(Works, "projects");
